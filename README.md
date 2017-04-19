@@ -13,5 +13,6 @@ Dependencies: `Python` (`Anaconda` preferred), `R`, `jupyter`, `r-essentials`, `
 ### By Diya Das. Presented at The Hacker Within, UC Berkeley
 To follow along, use:
 - Data Visualization in R.ipynb
+- Note: Corresponding Python tutorial (given on 4/18 by David DeTomaso) can be found [here](https://github.com/deto/THW_Python_Plotting).
 
 Dependencies: `R`, `jupyter`, `r-essentials`; `ImageMagick` and `XQuartz` for 3D plotting demo (on Mac)
